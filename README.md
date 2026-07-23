@@ -16,7 +16,8 @@ ASP.NET Core MVC application with role-based authentication and authorization us
 
 <img width="1042" height="931" alt="image" src="https://github.com/user-attachments/assets/d9731080-5f9b-4897-a135-399454991fd7" />
 
-<img width="1042" height="931" alt="image" src="https://github.com/user-attachments/assets/a2f8143b-3add-486b-9bd9-770801ecec42" />
+<img width="1767" height="491" alt="Screenshot 2026-07-23 110133" src="https://github.com/user-attachments/assets/241f4a08-7f02-4c07-8a9c-eb6e9fcd5292" />
+
 
 
 
