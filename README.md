@@ -10,11 +10,18 @@ ASP.NET Core MVC application with role-based authentication and authorization us
 
 ## Screenshots
 
-| | |
-|---|---|
-| ![Admin navigation](docs/screenshots/1_admin_navigation.png) | ![Student navigation](docs/screenshots/2_student_navigation.png) |
-| *Admin: Courses with Add/Edit/Delete + Students list* | *Student: welcome message, role-based menu, email in navbar* |
-| ![Course registration](docs/screenshots/5_course_registration_success.png) | ![Access denied](docs/screenshots/6_access_denied.png) |
+<img width="940" height="490" alt="image" src="https://github.com/user-attachments/assets/8c15adaa-bc63-48ee-973b-b4057e16bcd3" /> 
+
+<img width="988" height="1375" alt="image" src="https://github.com/user-attachments/assets/bfdd3018-1a39-492f-b88e-79744f95b6ee" /> 
+
+<img width="1042" height="931" alt="image" src="https://github.com/user-attachments/assets/d9731080-5f9b-4897-a135-399454991fd7" />
+
+
+
+
+
+
+
 | *One-course registration with success message* | *Access Denied when a Student opens an admin URL* |
 
 <details>
